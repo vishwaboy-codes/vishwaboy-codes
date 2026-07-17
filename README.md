@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-AWS Cloud Engineer ☁️ | MERN Stack Developer ⚛️ | Python Developer 🐍  | AI & ML Engineer
+AWS Cloud Engineer ☁️ | MERN Stack Developer ⚛️ | Python 🐍  | AI & ML Engineer
 </h3>
 
 <p align="center">
@@ -40,10 +40,21 @@ AWS Cloud Engineer ☁️ | MERN Stack Developer ⚛️ | Python Developer 🐍 
 ---
 
 # 💻 Tech Stack
+<marquee behavior="scroll" direction="left" scrollamount="8">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2000&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=AWS+☁️;Python+🐍;JavaScript+✨;React.js+⚛️;Node.js+🟢;Express.js;MongoDB+🍃;Docker+🐳;Kubernetes+☸️;Terraform+🏗️;Git+🌿;Linux+🐧;CI%2FCD+🚀" />
-</p>
+☁️ AWS &nbsp;&nbsp;&nbsp;
+🐍 Python &nbsp;&nbsp;&nbsp;
+⚛️ React &nbsp;&nbsp;&nbsp;
+🟢 Node.js &nbsp;&nbsp;&nbsp;
+🍃 MongoDB &nbsp;&nbsp;&nbsp;
+🐳 Docker &nbsp;&nbsp;&nbsp;
+☸️ Kubernetes &nbsp;&nbsp;&nbsp;
+🏗️ Terraform &nbsp;&nbsp;&nbsp;
+🌿 Git &nbsp;&nbsp;&nbsp;
+🐧 Linux &nbsp;&nbsp;&nbsp;
+🚀 CI/CD
+
+</marquee>
 
 ---
 
