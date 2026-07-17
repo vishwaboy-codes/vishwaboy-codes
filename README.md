@@ -42,43 +42,30 @@ AWS Cloud Engineer ☁️ | MERN Stack Developer ⚛️ | Python Developer 🐍 
 # 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=linux" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2000&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=AWS+☁️;Python+🐍;JavaScript+✨;React.js+⚛️;Node.js+🟢;Express.js;MongoDB+🍃;Docker+🐳;Kubernetes+☸️;Terraform+🏗️;Git+🌿;Linux+🐧;CI%2FCD+🚀" />
 </p>
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=vishwaboy-code&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=vishwaboy-codes&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=vishwaboy-code&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vishwaboy-codes&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaboy-code&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaboy-codes&layout=compact&theme=tokyonight)
 
 ---
 
 # 🏆 GitHub Trophy
 
-![](https://github-profile-trophy.vercel.app/?username=vishwaboy-code&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=vishwaboy-codes&theme=onedark)
 
 ---
 
 # 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=vishwaboy-code&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=vishwaboy-codes&theme=tokyo-night)
 
 ---
 
