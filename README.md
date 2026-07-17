@@ -57,21 +57,21 @@ AWS Cloud Engineer ☁️ | MERN Stack Developer ⚛️ | Python 🐍  | AI & ML
 </marquee>
 
 ---
+## 📊 GitHub Stats
 
-# 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=vishwaboy-codes&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api?username=vishwaboy-codes&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=vishwaboy-codes&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=vishwaboy-codes&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaboy-codes&layout=compact&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaboy-codes&layout=compact&theme=tokyonight)
+## 🏆 GitHub Trophy
 
----
+![Trophy](https://github-profile-trophy.vercel.app/?username=vishwaboy-codes&theme=tokyonight&no-frame=true&margin-w=15)
 
-# 🏆 GitHub Trophy
+## 📈 Activity Graph
 
-![](https://github-profile-trophy.vercel.app/?username=vishwaboy-codes&theme=onedark)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishwaboy-codes&theme=tokyo-night)
 ---
 
 # 📈 Contribution Graph
@@ -82,7 +82,7 @@ AWS Cloud Engineer ☁️ | MERN Stack Developer ⚛️ | Python 🐍  | AI & ML
 
 # 🐍 Contribution Snake
 
-![Snake animation](https://github.com/vishwaboy-codes/vishwaboy-code/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vishwaboy-codes/vishwaboy-codes/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
