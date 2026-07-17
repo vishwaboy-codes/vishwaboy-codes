@@ -69,9 +69,6 @@ AWS Cloud Engineer ☁️ | MERN Stack Developer ⚛️ | Python 🐍  | AI & ML
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=vishwaboy-codes&theme=tokyonight&no-frame=true&margin-w=15)
 
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishwaboy-codes&theme=tokyo-night)
 ---
 
 # 📈 Contribution Graph
